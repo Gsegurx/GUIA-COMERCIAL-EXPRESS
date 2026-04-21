@@ -1,5 +1,5 @@
-[index.html.html](https://github.com/user-attachments/files/26944160/index.html.html)
-# Arbol-ventas-claro<!DOCTYPE html>
+[index.html](https://github.com/user-attachments/files/26944193/index.html)
+<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
